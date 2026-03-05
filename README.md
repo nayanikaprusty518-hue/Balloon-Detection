@@ -90,6 +90,7 @@ The program displays:
 - Balloon area
 - Alignment instructions
 - "POP" message when the balloon is aligned
+- ![Detection Output](output.png)
 
 ---
 
